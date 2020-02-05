@@ -10,7 +10,7 @@ sush :
 * < nav >
 
 and many many attributes and we can write CSS code 
-<style>
+< style >
     this will make me able to change how the web look
     
 ### process & design
